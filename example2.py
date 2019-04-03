@@ -7,7 +7,7 @@ i = 1
 maxpage = 0
 
 data={}
-for q in range(1, 10):
+for q in range(1, 50):
     req = requests.get('https://www.thinkcontest.com/Contest/CateField.html?page=' + str(q))
     html = req.text
     soup = BeautifulSoup(html, 'html.parser')
@@ -26,6 +26,9 @@ for q in range(1, 10):
     for i in range(0, len(titles)):
         result = []
         tag = []
+
+        if newStatus[i]=="마감":
+            continue
 
         for j in tags[i]:
             if (j == "\n"): continue
