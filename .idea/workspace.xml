@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1143945-80d6-4067-ae87-51b27731d693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/thinkcontest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/crawlingExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawlingExample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/j.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/j.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +17,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#13#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/j.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="47693" selection-start-column="47693" selection-end-column="47693" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/smu.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="57">
+                  <caret line="3" column="34" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/data/j.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="47693" selection-start-column="47693" selection-end-column="47693" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/smu.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="448">
+                  <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/thinkcontest.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="771">
+                  <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#0#6#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/crawlingResult.csv">
+              <provider selected="true" editor-type-id="csv-text-editor">
+                <state relative-caret-position="323">
+                  <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+                </state>
+              </provider>
+              <provider editor-type-id="csv-table-editor">
+                <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,6 +102,7 @@
       <find>{&quot;디자인&quot;: [[&quot;무역보험 50주년 기념 제9회 대학(원)생 인쇄광고 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10095&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;]], [&quot;2019 장애인 고용 인식개선을 위한 Talent Contest 작품현상공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10080&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;문학/수기&quot;]], [&quot;OWHC-AP 세계유산도시 국제사진 공모전 2019&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10096&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;예체능&quot;]], [&quot;제8회 충청북도 공공디자인 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10094&quot;, [&quot;디자인&quot;, &quot;예체능&quot;, &quot;건축/건설&quot;]], [&quot;2019 KISA 대한민국 안전사진, 안전그림 포스터 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9804&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;예체능&quot;]], [&quot;제6회 안전한 학교 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10090&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 청주국제공예공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9935&quot;, [&quot;기획/아이디어&quot;, &quot;디자인&quot;, &quot;예체능&quot;]], [&quot;2019 경기 으뜸옥외광고물 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10060&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;]], [&quot;2019 사인프론티어 공모 (시민 모니터단, 대학생 서포터즈)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10061&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;체험/참여&quot;]], [&quot;낭비 없는 음식문화 조성을 위한 UCC·웹툰 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10055&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 안동관광 UCC·이미지 공모전 SMILE ANDONG 친절안동&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9788&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;]], [&quot;2019 안전한 LMO연구문화 정착을 위한 콘텐츠 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9992&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;]], [&quot;‘안전속도5030’ 교통안전 디자인 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9954&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;엘리·에스 이모티콘 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9953&quot;, [&quot;디자인&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 경기도 공공디자인 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9904&quot;, [&quot;디자인&quot;]], [&quot;엔제리너스 그래픽 공모展&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9919&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;제21회 우체국예금보험 어린이 그림그리기 대회&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9900&quot;, [&quot;디자인&quot;]], [&quot;2019 부산광역시 공공디자인 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9860&quot;, [&quot;디자인&quot;]], [&quot;제2회 세계유산 백제역사유적지구 일러스트 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9834&quot;, [&quot;디자인&quot;]], [&quot;2019 대한민국 헌혈 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9694&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;경기도 곤충 일러스트 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9539&quot;, [&quot;디자인&quot;, &quot;캐릭터/만화&quot;]], [&quot;제3회 대한민국 UCC 캐릭터 공모전 및 일러스트 경연대회 (SAAF)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=8980&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 무안군 관광기념품 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9884&quot;, [&quot;기획/아이디어&quot;, &quot;디자인&quot;]], [&quot;제5회 대한민국민화대전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9501&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;이화여대 미술공모전, 양자의 세계 (상금 총 900만원)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10053&quot;, [&quot;디자인&quot;]], [&quot;제11회 대전광역시 공공디자인 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9757&quot;, [&quot;디자인&quot;]], [&quot;2019 화성호 생태세밀화 전국 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9850&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;한국새생명복지재단 기부천사 사업장 스티커 디자인&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10010&quot;, [&quot;디자인&quot;]], [&quot;제2회 대한민국 차 패키지 디자인 대회&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9966&quot;, [&quot;디자인&quot;]], [&quot;2019 국립박물관 문화상품 공모&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9852&quot;, [&quot;디자인&quot;]]], &quot;광고/마케팅&quot;: [[&quot;무역보험 50주년 기념 제9회 대학(원)생 인쇄광고 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10095&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;]], [&quot;제6회 안전한 학교 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10090&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 경기 으뜸옥외광고물 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10060&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;]], [&quot;제1회 광고홍보영상 콘테스트&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9849&quot;, [&quot;광고/마케팅&quot;, &quot;UCC/영상&quot;]], [&quot;부동산114 창사 20주년 기념 Big Data 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9824&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;]], [&quot;2019 대한민국 헌혈 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9694&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;제4회 청년창업리그&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9678&quot;, [&quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;, &quot;게임/소프트웨어&quot;, &quot;취업/창업&quot;]]], &quot;예체능&quot;: [[&quot;무역보험 50주년 기념 제9회 대학(원)생 인쇄광고 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10095&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;]], [&quot;OWHC-AP 세계유산도시 국제사진 공모전 2019&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10096&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;예체능&quot;]], [&quot;제8회 충청북도 공공디자인 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10094&quot;, [&quot;디자인&quot;, &quot;예체능&quot;, &quot;건축/건설&quot;]], [&quot;2019 KISA 대한민국 안전사진, 안전그림 포스터 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9804&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;예체능&quot;]], [&quot;제6회 안전한 학교 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10090&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 청주국제공예공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9935&quot;, [&quot;기획/아이디어&quot;, &quot;디자인&quot;, &quot;예체능&quot;]], [&quot;제22회 동아제약 대학생 국토대장정&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10069&quot;, [&quot;예체능&quot;, &quot;체험/참여&quot;, &quot;봉사활동&quot;]], [&quot;3·1운동 및 임정수립 100주년 기념 2019 달구벌 문예대전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9813&quot;, [&quot;예체능&quot;, &quot;문학/수기&quot;]], [&quot;‘안전속도5030’ 교통안전 디자인 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9954&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;엔제리너스 그래픽 공모展&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9919&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;춘천 상징노래 창작곡 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9857&quot;, [&quot;예체능&quot;]], [&quot;JDC제주신화페스티벌 프로그램 및 푸드 아이디어 공모전&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9823&quot;, [&quot;기획/아이디어&quot;, &quot;예체능&quot;, &quot;전시/페스티발&quot;]], [&quot;제5회 대한민국민화대전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9501&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;길상 동양화 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10106&quot;, [&quot;예체능&quot;, &quot;체험/참여&quot;, &quot;전시/페스티발&quot;]], [&quot;제5회 대한민국민화대전 학생부&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9635&quot;, [&quot;예체능&quot;]], [&quot;2019 화성호 생태세밀화 전국 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9850&quot;, [&quot;디자인&quot;, &quot;예체능&quot;]], [&quot;2019 전주세계소리축제 어린이 그림 공모&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10059&quot;, [&quot;예체능&quot;]]], &quot;사진&quot;: [[&quot;2019 장애인 고용 인식개선을 위한 Talent Contest 작품현상공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10080&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;문학/수기&quot;]], [&quot;OWHC-AP 세계유산도시 국제사진 공모전 2019&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10096&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;예체능&quot;]], [&quot;2019 KISA 대한민국 안전사진, 안전그림 포스터 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9804&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;예체능&quot;]], [&quot;2019 사인프론티어 공모 (시민 모니터단, 대학생 서포터즈)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10061&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;체험/참여&quot;]], [&quot;제6회 송건호 대학사진상&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9358&quot;, [&quot;사진&quot;]], [&quot;제3회 국립백두대간수목원 사진 콘테스트&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9623&quot;, [&quot;사진&quot;]], [&quot;제4회 세계 효·사랑 UCC&amp;사진 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10098&quot;, [&quot;사진&quot;, &quot;UCC/영상&quot;]], [&quot;제3회 ＇기분 좋은 문화도시 도봉＇ 사진 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9931&quot;, [&quot;사진&quot;]], [&quot;제5회 대한민국 아이가 있어 행복한 가족 사진·UCC 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10067&quot;, [&quot;사진&quot;, &quot;UCC/영상&quot;]]], &quot;문학/수기&quot;: [[&quot;2019 장애인 고용 인식개선을 위한 Talent Contest 작품현상공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10080&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;문학/수기&quot;]], [&quot;계명대학교 창립 120주년 기념 제39회 계명문학상 작품 공모&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10104&quot;, [&quot;문학/수기&quot;]], [&quot;제1회 열린 재정을 활용한 대학원생 논문 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10079&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;, &quot;문학/수기&quot;]], [&quot;3·1운동 및 임정수립 100주년 기념 2019 달구벌 문예대전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9813&quot;, [&quot;예체능&quot;, &quot;문학/수기&quot;]], [&quot;2019년 자유학기 수기 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9743&quot;, [&quot;문학/수기&quot;]], [&quot;2019년 자원 및 환경에너지 수필공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10071&quot;, [&quot;문학/수기&quot;]], [&quot;우리詩 신인상 공모&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9971&quot;, [&quot;문학/수기&quot;]], [&quot;2019 까칠한 재석이 청소년 서평대회&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10120&quot;, [&quot;문학/수기&quot;]], [&quot;2019 NEW BOOK 프로젝트, 협성문화재단이 당신의 책을 만들어드립니다&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10021&quot;, [&quot;문학/수기&quot;]], [&quot;창립 120주년 기념 제39회 계명문학상 작품 공모&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9737&quot;, [&quot;문학/수기&quot;]]], &quot;UCC/영상&quot;: [[&quot;2019 장애인 인식개선 대학생 영상 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10088&quot;, [&quot;UCC/영상&quot;]], [&quot;낭비 없는 음식문화 조성을 위한 UCC·웹툰 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10055&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 안동관광 UCC·이미지 공모전 SMILE ANDONG 친절안동&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9788&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;]], [&quot;2019 안전한 LMO연구문화 정착을 위한 콘텐츠 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9992&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;]], [&quot;제1회 광고홍보영상 콘테스트&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9849&quot;, [&quot;광고/마케팅&quot;, &quot;UCC/영상&quot;]], [&quot;2019 대한민국 헌혈 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9694&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;제7회 국토교통기술 아이디어 공모전&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9497&quot;, [&quot;기획/아이디어&quot;, &quot;UCC/영상&quot;]], [&quot;제3회 대한민국 UCC 캐릭터 공모전 및 일러스트 경연대회 (SAAF)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=8980&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 제4회 더줌다큐제 공모전 (The Zoom Documentary Film Festival)&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9407&quot;, [&quot;UCC/영상&quot;]], [&quot;제6회 효문화·가족사랑 UCC 공모전 공고&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9621&quot;, [&quot;UCC/영상&quot;]], [&quot;제 20회 장애인영화제 경쟁부문 출품공모&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9944&quot;, [&quot;UCC/영상&quot;]], [&quot;공정한 병역 행복한 나라, 병무청과 함께하는 UCC 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10140&quot;, [&quot;UCC/영상&quot;]], [&quot;제4회 세계 효·사랑 UCC&amp;사진 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10098&quot;, [&quot;사진&quot;, &quot;UCC/영상&quot;]], [&quot;제3회 호스피스코리아 아름다운 동행 웹툰 &amp; UCC 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9768&quot;, [&quot;UCC/영상&quot;]], [&quot;제5회 대한민국 아이가 있어 행복한 가족 사진·UCC 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10067&quot;, [&quot;사진&quot;, &quot;UCC/영상&quot;]]], &quot;건축/건설&quot;: [[&quot;제8회 충청북도 공공디자인 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10094&quot;, [&quot;디자인&quot;, &quot;예체능&quot;, &quot;건축/건설&quot;]], [&quot;2019 미래코 폐광지역 도시재생 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10085&quot;, [&quot;기획/아이디어&quot;, &quot;건축/건설&quot;]], [&quot;제24회 경기도 건축문화상 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9810&quot;, [&quot;기획/아이디어&quot;, &quot;건축/건설&quot;]]], &quot;캐릭터/만화&quot;: [[&quot;제6회 안전한 학교 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10090&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;예체능&quot;, &quot;캐릭터/만화&quot;]], [&quot;낭비 없는 음식문화 조성을 위한 UCC·웹툰 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10055&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;엘리·에스 이모티콘 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9953&quot;, [&quot;디자인&quot;, &quot;캐릭터/만화&quot;]], [&quot;2019 대한민국 헌혈 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9694&quot;, [&quot;디자인&quot;, &quot;광고/마케팅&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;경기도 곤충 일러스트 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9539&quot;, [&quot;디자인&quot;, &quot;캐릭터/만화&quot;]], [&quot;제3회 대한민국 UCC 캐릭터 공모전 및 일러스트 경연대회 (SAAF)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=8980&quot;, [&quot;디자인&quot;, &quot;UCC/영상&quot;, &quot;캐릭터/만화&quot;]], [&quot;자살예방 및 생명사랑캐릭터 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10131&quot;, [&quot;캐릭터/만화&quot;]], [&quot;제1회 애니툰 웹툰 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9846&quot;, [&quot;캐릭터/만화&quot;]]], &quot;기획/아이디어&quot;: [[&quot;2019 청주국제공예공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9935&quot;, [&quot;기획/아이디어&quot;, &quot;디자인&quot;, &quot;예체능&quot;]], [&quot;2019 미래코 폐광지역 도시재생 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10085&quot;, [&quot;기획/아이디어&quot;, &quot;건축/건설&quot;]], [&quot;제1회 열린 재정을 활용한 대학원생 논문 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10079&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;, &quot;문학/수기&quot;]], [&quot;「국민을 웃게 하는 법령」을 만들기 위한 2019 국민 아이디어 공모제&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10008&quot;, [&quot;기획/아이디어&quot;]], [&quot;2019 산나물 전국 요리대회&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9957&quot;, [&quot;기획/아이디어&quot;, &quot;전시/페스티발&quot;]], [&quot;부동산114 창사 20주년 기념 Big Data 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9824&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;]], [&quot;JDC제주신화페스티벌 프로그램 및 푸드 아이디어 공모전&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9823&quot;, [&quot;기획/아이디어&quot;, &quot;예체능&quot;, &quot;전시/페스티발&quot;]], [&quot;제24회 경기도 건축문화상 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9810&quot;, [&quot;기획/아이디어&quot;, &quot;건축/건설&quot;]], [&quot;제11회 대학생 공작기계 창의 아이디어 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9745&quot;, [&quot;기획/아이디어&quot;, &quot;과학/공학&quot;, &quot;해외&quot;]], [&quot;제4회 청년창업리그&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9678&quot;, [&quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;, &quot;게임/소프트웨어&quot;, &quot;취업/창업&quot;]], [&quot;2019년 제4회 농식품 아이디어 경연대회&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9673&quot;, [&quot;기획/아이디어&quot;]], [&quot;제7회 국토교통기술 아이디어 공모전&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9497&quot;, [&quot;기획/아이디어&quot;, &quot;UCC/영상&quot;]], [&quot;제4회 지방자치/분권실현 정책제안 공모&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9973&quot;, [&quot;기획/아이디어&quot;]], [&quot;2019 무안군 관광기념품 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9884&quot;, [&quot;기획/아이디어&quot;, &quot;디자인&quot;]], [&quot;2019년 대학(원)생 재난안전 분야 아이디어 및 논문 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10103&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;]], [&quot;2020년 기본연구과제 발굴 위한 수요조사&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10119&quot;, [&quot;기획/아이디어&quot;]], [&quot;(글로벌 퀀트 모의투자대회) 2019 International Quant Chanmpionship​&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9881&quot;, [&quot;기획/아이디어&quot;, &quot;과학/공학&quot;]]], &quot;논문/리포트&quot;: [[&quot;제1회 열린 재정을 활용한 대학원생 논문 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10079&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;, &quot;문학/수기&quot;]], [&quot;제2회 피란수도 부산 논문 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10073&quot;, [&quot;논문/리포트&quot;]], [&quot;부동산114 창사 20주년 기념 Big Data 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9824&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;]], [&quot;공블러 2019 출판프로젝트 공동 저자단 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9534&quot;, [&quot;논문/리포트&quot;, &quot;체험/참여&quot;]], [&quot;2019년 동서대·한국항만경제학회 공동 해운항만 국제논문공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9854&quot;, [&quot;논문/리포트&quot;]], [&quot;제6회 국방미래인재학술상&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9705&quot;, [&quot;논문/리포트&quot;]], [&quot;제6회 국방미래인재학술상&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9663&quot;, [&quot;논문/리포트&quot;]], [&quot;2019년 대학(원)생 재난안전 분야 아이디어 및 논문 공모전&quot;, &quot;접수예정&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10103&quot;, [&quot;논문/리포트&quot;, &quot;기획/아이디어&quot;]], [&quot;제6회 근로환경조사 논문경진대회&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9885&quot;, [&quot;논문/리포트&quot;]]], &quot;체험/참여&quot;: [[&quot;제22회 동아제약 대학생 국토대장정&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10069&quot;, [&quot;예체능&quot;, &quot;체험/참여&quot;, &quot;봉사활동&quot;]], [&quot;2019 사인프론티어 공모 (시민 모니터단, 대학생 서포터즈)&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10061&quot;, [&quot;디자인&quot;, &quot;사진&quot;, &quot;체험/참여&quot;]], [&quot;2019 한수원 대학생 기자단 8기 모집&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10015&quot;, [&quot;체험/참여&quot;]], [&quot;2019 LOTTE GRS 글로벌 원정대 9기 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9917&quot;, [&quot;체험/참여&quot;]], [&quot;2019 중앙자살예방센터 자살유발정보 모니터링단 지켜줌인(人) 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9905&quot;, [&quot;체험/참여&quot;, &quot;봉사활동&quot;]], [&quot;2019년도 수림장학생 선발 안내&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9713&quot;, [&quot;체험/참여&quot;, &quot;장학(금)재단&quot;]], [&quot;경북 일자리 청년포럼단 3기 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9703&quot;, [&quot;체험/참여&quot;, &quot;취업/창업&quot;]], [&quot;공블러 2019 출판프로젝트 공동 저자단 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9612&quot;, [&quot;체험/참여&quot;]], [&quot;공블러 2019 출판프로젝트 공동 저자단 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9534&quot;, [&quot;논문/리포트&quot;, &quot;체험/참여&quot;]], [&quot;공블러 2019 출판프로젝트 공동 저자단 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9424&quot;, [&quot;체험/참여&quot;]], [&quot;2019년 하계방학 해외봉사활동 지원자 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9798&quot;, [&quot;체험/참여&quot;, &quot;봉사활동&quot;, &quot;해외&quot;]], [&quot;길상 동양화 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10106&quot;, [&quot;예체능&quot;, &quot;체험/참여&quot;, &quot;전시/페스티발&quot;]]], &quot;봉사활동&quot;: [[&quot;제22회 동아제약 대학생 국토대장정&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10069&quot;, [&quot;예체능&quot;, &quot;체험/참여&quot;, &quot;봉사활동&quot;]], [&quot;2019 중앙자살예방센터 자살유발정보 모니터링단 지켜줌인(人) 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9905&quot;, [&quot;체험/참여&quot;, &quot;봉사활동&quot;]], [&quot;2019년 하계방학 해외봉사활동 지원자 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9798&quot;, [&quot;체험/참여&quot;, &quot;봉사활동&quot;, &quot;해외&quot;]], [&quot;아이쿠스X웨스트런던대학 : 1달간의 유럽여행+어학프로그램+안녕코리아축제 모집&quot;, &quot;인턴ㆍ정직원 채용&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9606&quot;, [&quot;봉사활동&quot;, &quot;해외&quot;]], [&quot;2019 GIVE RUN 마라톤대회 자원봉사자 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9882&quot;, [&quot;봉사활동&quot;]]], &quot;전시/페스티발&quot;: [[&quot;2019 산나물 전국 요리대회&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9957&quot;, [&quot;기획/아이디어&quot;, &quot;전시/페스티발&quot;]], [&quot;JDC제주신화페스티벌 프로그램 및 푸드 아이디어 공모전&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9823&quot;, [&quot;기획/아이디어&quot;, &quot;예체능&quot;, &quot;전시/페스티발&quot;]], [&quot;길상 동양화 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10106&quot;, [&quot;예체능&quot;, &quot;체험/참여&quot;, &quot;전시/페스티발&quot;]]], &quot;과학/공학&quot;: [[&quot;제11회 대학생 공작기계 창의 아이디어 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9745&quot;, [&quot;기획/아이디어&quot;, &quot;과학/공학&quot;, &quot;해외&quot;]], [&quot;제32회 대한민국학생발명전시회 및  제21회 전국교원발명품경진대회&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9666&quot;, [&quot;과학/공학&quot;]], [&quot;(글로벌 퀀트 모의투자대회) 2019 International Quant Chanmpionship​&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9881&quot;, [&quot;기획/아이디어&quot;, &quot;과학/공학&quot;]]], &quot;해외&quot;: [[&quot;제11회 대학생 공작기계 창의 아이디어 공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9745&quot;, [&quot;기획/아이디어&quot;, &quot;과학/공학&quot;, &quot;해외&quot;]], [&quot;2019년 하계방학 해외봉사활동 지원자 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9798&quot;, [&quot;체험/참여&quot;, &quot;봉사활동&quot;, &quot;해외&quot;]], [&quot;아이쿠스X웨스트런던대학 : 1달간의 유럽여행+어학프로그램+안녕코리아축제 모집&quot;, &quot;인턴ㆍ정직원 채용&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9606&quot;, [&quot;봉사활동&quot;, &quot;해외&quot;]]], &quot;장학(금)재단&quot;: [[&quot;2019년도 수림장학생 선발 안내&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9713&quot;, [&quot;체험/참여&quot;, &quot;장학(금)재단&quot;]]], &quot;취업/창업&quot;: [[&quot;경북 일자리 청년포럼단 3기 모집&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9703&quot;, [&quot;체험/참여&quot;, &quot;취업/창업&quot;]], [&quot;제4회 청년창업리그&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9678&quot;, [&quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;, &quot;게임/소프트웨어&quot;, &quot;취업/창업&quot;]], [&quot;NAVER 대학(원)생 기술창업공모전&quot;, &quot;접수중&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=10057&quot;, [&quot;취업/창업&quot;]]], &quot;게임/소프트웨어&quot;: [[&quot;제4회 청년창업리그&quot;, &quot;마감임박&quot;, &quot;https://www.thinkcontest.com/Contest/ContestDetail.html?id=9678&quot;, [&quot;기획/아이디어&quot;, &quot;광고/마케팅&quot;, &quot;게임/소프트웨어&quot;, &quot;취업/창업&quot;]]]}</find>
       <find>논문/리포트</find>
       <find>논문/리포트&quot;:</find>
+      <find>마감</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,20 +115,24 @@
         <option value="$PROJECT_DIR$/data/example2.py" />
         <option value="$PROJECT_DIR$/data/j.json" />
         <option value="$PROJECT_DIR$/example2.py" />
+        <option value="$PROJECT_DIR$/smu.py" />
+        <option value="$PROJECT_DIR$/venv/test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/thinkcontest.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-422" />
-    <option name="y" value="-26" />
-    <option name="width" value="944" />
-    <option name="height" value="1088" />
+    <option name="x" value="922" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,23 +145,30 @@
               <item name="crawlingExample" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="crawlingExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawlingExample" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kim Tae-su\PycharmProjects\crawlingExample" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kim Tae-su\PycharmProjects\crawlingExample\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kim-Taesu\Desktop\project\crawlingExample" />
+      <recent name="C:\Users\Kim Tae-su\PycharmProjects\crawlingExample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -125,20 +183,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example2 (1)">
-    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="crawlingExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Kim-Taesu\Desktop\project\Algorithm_python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,19 +206,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawlingExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Kim-Taesu\Desktop\project\Algorithm_python\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example2.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Kim-Taesu\Desktop\project\crawlingExample\thinkcontest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,19 +228,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
       <module name="crawlingExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Kim-Taesu\Desktop\project\Algorithm_python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Kim Tae-su\PycharmProjects\crawlingExample\example2.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Kim-Taesu\Desktop\project\crawlingExample\thinkcontest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,9 +252,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.example2 (1)" />
-        <item itemvalue="Python.example2" />
-        <item itemvalue="Python.example" />
+        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -207,19 +266,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554201975855</updated>
+      <workItem from="1567819894149" duration="1147000" />
+      <workItem from="1567821084425" duration="3984000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5131000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2511" height="1455" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0545675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09647188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4977307" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848233" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44282743" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,10 +291,21 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/crawlingExample$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1567824833601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawlingExample$test.coverage" NAME="test Coverage Results" MODIFIED="1567821407133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/bs4/__init__.py" />
@@ -247,6 +321,16 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/bs4/element.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/j.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -254,12 +338,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawlingResult.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="-388">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#13#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkcontest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
