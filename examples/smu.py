@@ -18,7 +18,7 @@ cols = ["Product Type", "Vendor", "Product", "Version", "Update", "Edition", "La
 standard = ['Product', 'Version']
 
 # 저장 파일 및 위치
-saveFile = 'result.csv'
+saveFile = '../data/result.csv'
 
 # 검색할 year
 year = 2019

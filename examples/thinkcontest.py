@@ -60,4 +60,4 @@ for topic in range(1, len(all) + 1):
     print('finish')
 
 df = pd.DataFrame(res, columns=cols)
-df.to_csv('data/crawlingResult.csv', mode='w', encoding='UTF-8')
+df.to_csv('../data/crawlingResult.csv', mode='w', encoding='UTF-8')
