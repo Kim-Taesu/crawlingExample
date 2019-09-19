@@ -2,14 +2,14 @@
 
 
 
-##### 목표
+#### 목표
 
 - 파이썬 BeautifulSoup4와 Request를 이용한 크롤링 공부 및 예제 연습
 - 크롤링 데이터를 pandas를 활용하여 dataframe으로 만들고 csv 파일로 저장
 
 
 
-##### 폴더 구성
+#### 폴더 구성
 
 - [examples](examples) : 예제 파일 정리
 
@@ -23,7 +23,7 @@
 
 
 
-##### Technology
+#### Technology
 
 - Pandas
 - BeautifulSoup4
@@ -31,6 +31,6 @@
 
 
 
-##### 개발 언어
+#### 개발 언어
 
 - Python
