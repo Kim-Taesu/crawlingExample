@@ -1,0 +1,7 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <CsvCodeStyleSettings>
+      <option name="SPACE_BEFORE_SEPARATOR" value="true" />
+    </CsvCodeStyleSettings>
+  </code_scheme>
+</component>
